@@ -2,11 +2,11 @@
 
 💻 Développeur .NET Junior
 
-🚀 Je m'intéresse au développement d'application
+🚀 Dans le but de revenir dans le domaine de la programmation et passionné en parallèle par les jeux vidéo et leurs mécaniques c’est naturellement que je me suis dirigé vers le développement informatique.
 
-🌱 Actuellement en formation de développeur .NET chez [Technifutur](https://technifutur.be/formations/?id=MPC-DVPT-WEB-002&public=DE&secteur=NUM)
+🌱 Actuellement en formation de développeur .NET chez [Technifutur](https://technifutur.be/formations/?id=MPC-DVPT-WEB-002&public=DE&secteur=NUM), je suis à la recherche d'un stage de 3 mois dés avril 2027, j'entame dés septembre 2026 un Bachelier en informatique orientation développement d'application en soirée à l'IPEFA de Seraing.
 
-### <a name="tech_List">Liste des technologie vue dans cette formation</a>
+### <a name="tech_List">Liste des technologies vues dans cette formation</a>
 <hr></hr>
 
 <table>
