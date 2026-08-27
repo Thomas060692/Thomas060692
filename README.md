@@ -14,44 +14,179 @@
     <tr>
       <th>Back-end</th>
       <th>Front-end</th>
+      <th>Base de données</th>
       <th>Outil et méthode</th>
     </tr>
   </thead>
+  
   <tr>
     <td>
     
-- [x] <code>C#</code>
-- [X] <code>programmation orientée objet</code>
-- [ ] <code>T-SQL</code>
-- [ ] <code>LINQ</code>
-- [ ] <code>ADO.NET</code>
-- [ ] <code>Entity Framework</code>
-- [ ] <code>ASP.NET MVC</code>
-- [ ] <code>.NET core</code>
+  - [x] <code>C#</code>
 
     </td>
     <td>
 
-    - [ ] <code>HTML</code>
-    - [ ] <code>CSS</code>
-    - [ ] <code>JavaScript</code>
-    - [ ] <code>Typescript</code>
-    - [ ] <code>Angular</code>
-    - [ ] <code>Web API</code>
-    - [ ] <code>Blazor</code>
-    - [ ] <code>Ionic</code>
+    - [ ] <code>HTML5</code>
+
+    </td>
+
+    <td>
+
+    - [ ] <code>T-SQL</code>
+      
+    </td>
+
+    
+    <td>
+      
+    - [x] <code>GIT</code>
+
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      
+  - [ ] <code>.NET Core</code>
 
     </td>
     <td>
       
-    - [x] <code>GIT</code>
-    - [ ] <code>Design Pattern + UML</code>
-    - [ ] <code>TDD</code>
-    - [ ] <code>Azur</code>
-    - [ ] <code>Agile & Scrum</code>
-    - [ ] <code>Docker</code>
-    - [ ] <code>Tests unitaires et d'intégration</code>
-    - [ ] <code>Librairies IA (intégration LLM,...)</code> 
+    - [ ]  <code>JavaScript</code>
+      
+    </td>
+    <td>
+      
+    - [ ]  <code>SQL Server</code>
+      
+    </td>
+    <td>
+      
+    - [ ]  <code>Azure DevOps</code>
+      
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      
+  - [ ] <code>ASP.NET Core MVC</code>
+
+    </td>
+    <td>
+      
+    - [ ]  <code>CSS3</code>
+      
+    </td>
+    <td>
+      
+    </td>
+    <td>
+      
+    - [ ]  <code>Agile / Scrum</code>
+      
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      
+  - [ ] <code>Entity Framework Core</code>
+
+    </td>
+    <td>
+      
+    - [ ]  <code>Bootstrap</code>
+      
+    </td>
+    <td>
+      
+    </td>
+    <td>
+      
+    - [ ]  <code>Docker</code>
+      
+    </td>
+  </tr>
+
+   <tr>
+    <td>
+      
+  - [ ] <code>Blazor</code>
+
+    </td>
+    <td>
+      
+    - [ ]  <code>SASS</code>
+      
+    </td>
+    <td>
+      
+    </td>
+    <td>
+      
+    - [ ]  <code>Tests unitaires et d'intégration</code>
+      
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      
+  - [ ] <code>MAUI/Ionic</code>
+
+    </td>
+    <td>
+      
+    - [ ]  <code>API REST</code>
+      
+    </td>
+    <td>
+      
+    </td>
+    <td>
+      
+    - [ ]  <code>Librairies IA (intégration LLM, Semantic Kernel, ML.NET)</code>
+      
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      
+  - [ ] <code>ADO.NET</code>
+
+    </td>
+    <td>
+      
+    - [ ]  <code>RxJS</code>
+      
+    </td>
+    <td>
+      
+    </td>
+    <td>
+      
+    - [ ]  <code>CI/CD</code>
+      
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      
+  - [ ] <code>LINQ</code>
+
+    </td>
+    <td>
+      
+    </td>
+    <td>
+      
+    </td>
+    <td>
+      
     </td>
   </tr>
 </table>
