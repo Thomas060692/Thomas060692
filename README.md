@@ -191,4 +191,21 @@
       
     </td>
   </tr>
+
+  <tr>
+    <td>
+      
+  - [ ] <code>TypeScript</code>
+
+    </td>
+    <td>
+      
+    </td>
+    <td>
+      
+    </td>
+    <td>
+      
+    </td>
+  </tr>
 </table>
