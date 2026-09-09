@@ -33,7 +33,7 @@
 
     <td>
 
-    - [ ] <code>T-SQL</code>
+    - [x] <code>T-SQL</code>
       
     </td>
 
