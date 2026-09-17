@@ -48,7 +48,8 @@
   <tr>
     <td>
       
-  - [ ] <code>.NET Core</code>
+  
+  - [X] <code>ADO.NET</code>
 
     </td>
     <td>
@@ -155,7 +156,7 @@
   <tr>
     <td>
       
-  - [ ] <code>ADO.NET</code>
+  - [ ] <code>.NET Core</code>
 
     </td>
     <td>
