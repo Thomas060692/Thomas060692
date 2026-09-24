@@ -27,7 +27,7 @@
     </td>
     <td>
 
-    - [ ] <code>HTML5</code>
+    - [X] <code>HTML5</code>
 
     </td>
 
@@ -54,7 +54,7 @@
     </td>
     <td>
       
-    - [ ]  <code>JavaScript</code>
+    - [X]  <code>CSS3</code>
       
     </td>
     <td>
@@ -77,7 +77,7 @@
     </td>
     <td>
       
-    - [ ]  <code>CSS3</code>
+    - [ ]  <code>JavaScript</code>
       
     </td>
     <td>
