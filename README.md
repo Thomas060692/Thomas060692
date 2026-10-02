@@ -63,8 +63,8 @@
       
     </td>
     <td>
-      
-    - [ ]  <code>Azure DevOps</code>
+
+    - [X]  <code>Agile / Scrum</code>
       
     </td>
   </tr>
@@ -85,7 +85,7 @@
     </td>
     <td>
       
-    - [ ]  <code>Agile / Scrum</code>
+    - [ ]  <code>Azure DevOps</code>
       
     </td>
   </tr>
