@@ -71,8 +71,8 @@
 
   <tr>
     <td>
-      
-  - [ ] <code>ASP.NET Core MVC</code>
+
+  - [X] <code>LINQ</code>
 
     </td>
     <td>
@@ -177,7 +177,7 @@
   <tr>
     <td>
       
-  - [ ] <code>LINQ</code>
+  - [ ] <code>ASP.NET Core MVC</code>
 
     </td>
     <td>
