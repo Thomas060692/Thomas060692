@@ -148,7 +148,8 @@
     </td>
     <td>
       
-    - [ ]  <code>Librairies IA (intégration LLM, Semantic Kernel, ML.NET)</code>
+    - [ ]  <code>Librairies IA (intégration LLM,
+     Semantic Kernel, ML.NET)</code>
       
     </td>
   </tr>
