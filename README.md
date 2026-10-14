@@ -91,24 +91,24 @@
   </tr>
 
   <tr>
+   <td>
+  
+  - [ ] <code>ASP.NET Core MVC</code>
+  
+  </td>
     <td>
       
-  - [ ] <code>Entity Framework Core</code>
-
-    </td>
+   - [ ]  <code>Bootstrap</code>
+      
+   </td>
+   <td>
+      
+   </td>
     <td>
       
-    - [ ]  <code>Bootstrap</code>
+   - [ ]  <code>Docker</code>
       
-    </td>
-    <td>
-      
-    </td>
-    <td>
-      
-    - [ ]  <code>Docker</code>
-      
-    </td>
+   </td>
   </tr>
 
    <tr>
@@ -157,50 +157,33 @@
   <tr>
     <td>
       
-  - [ ] <code>.NET Core</code>
-
-    </td>
-    <td>
+  - [ ] <code>Entity Framework Core</code>
       
-    - [ ]  <code>RxJS</code>
+   </td>
+  <td>
       
-    </td>
-    <td>
+   - [ ]  <code>RxJS</code>
       
-    </td>
-    <td>
+   </td>
+   <td>
       
-    - [ ]  <code>CI/CD</code>
+   </td>
+   <td>
       
-    </td>
+   - [ ]  <code>CI/CD</code>
+      
+   </td>
   </tr>
 
   <tr>
-    <td>
-      
-  - [ ] <code>ASP.NET Core MVC</code>
+  <td>
+    
+   - [ ] <code>TypeScript</code>
+  
+  </td>
+  <td>
 
-    </td>
-    <td>
-
-    - [ ] <code>Angular</code>
-      
-    </td>
-    <td>
-      
-    </td>
-    <td>
-      
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      
-  - [ ] <code>TypeScript</code>
-
-    </td>
-    <td>
+  - [ ] <code>Angular</code>
       
     </td>
     <td>
