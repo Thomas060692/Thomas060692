@@ -93,7 +93,7 @@
   <tr>
    <td>
   
-  - [ ] <code>ASP.NET Core MVC</code>
+  - [x] <code>ASP.NET Core MVC</code>
   
   </td>
     <td>
@@ -114,7 +114,7 @@
    <tr>
     <td>
       
-  - [ ] <code>Blazor</code>
+  - [x] <code>Entity Framework Core</code>
 
     </td>
     <td>
@@ -157,7 +157,7 @@
   <tr>
     <td>
       
-  - [ ] <code>Entity Framework Core</code>
+   - [ ] <code>Blazor</code>
       
    </td>
   <td>
