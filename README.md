@@ -77,7 +77,7 @@
     </td>
     <td>
       
-    - [ ]  <code>JavaScript</code>
+    - [x]  <code>JavaScript</code>
       
     </td>
     <td>
